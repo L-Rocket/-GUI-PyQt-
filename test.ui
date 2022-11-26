@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1514</width>
-    <height>624</height>
+    <width>790</width>
+    <height>605</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -189,7 +189,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>2.0</string>
+      <string>4.0</string>
      </property>
     </widget>
     <widget class="QLineEdit" name="lineEdit_3">
@@ -439,6 +439,9 @@
        <height>44</height>
       </rect>
      </property>
+     <property name="text">
+      <string>1000</string>
+     </property>
     </widget>
     <widget class="QLabel" name="label_6">
      <property name="geometry">
@@ -476,7 +479,7 @@
       </rect>
      </property>
      <property name="text">
-      <string/>
+      <string>4.0</string>
      </property>
     </widget>
     <widget class="QLineEdit" name="lineEdit_6">
@@ -489,7 +492,7 @@
       </rect>
      </property>
      <property name="text">
-      <string/>
+      <string>0.0</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_14">
@@ -553,75 +556,13 @@
      <string>信号发生器控制台</string>
     </property>
    </widget>
-   <widget class="QGroupBox" name="groupBox">
-    <property name="geometry">
-     <rect>
-      <x>770</x>
-      <y>70</y>
-      <width>721</width>
-      <height>491</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>宋体</family>
-      <pointsize>22</pointsize>
-     </font>
-    </property>
-    <property name="title">
-     <string/>
-    </property>
-    <widget class="QLabel" name="label_18">
-     <property name="geometry">
-      <rect>
-       <x>20</x>
-       <y>10</y>
-       <width>691</width>
-       <height>461</height>
-      </rect>
-     </property>
-     <property name="contextMenuPolicy">
-      <enum>Qt::DefaultContextMenu</enum>
-     </property>
-     <property name="text">
-      <string/>
-     </property>
-     <property name="pixmap">
-      <pixmap>F:/SCDP1.jpg</pixmap>
-     </property>
-     <property name="scaledContents">
-      <bool>true</bool>
-     </property>
-    </widget>
-   </widget>
-   <widget class="QLabel" name="label_17">
-    <property name="geometry">
-     <rect>
-      <x>1040</x>
-      <y>30</y>
-      <width>321</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>宋体</family>
-      <pointsize>22</pointsize>
-      <weight>50</weight>
-      <bold>false</bold>
-     </font>
-    </property>
-    <property name="text">
-     <string>示波器</string>
-    </property>
-   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1514</width>
+     <width>790</width>
      <height>23</height>
     </rect>
    </property>
