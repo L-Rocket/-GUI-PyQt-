@@ -5,7 +5,7 @@
 
 需提前安装INMAX，本代码仅供参考，具体参照机器说明书
 
-pyvisa cv2
+包：pyvisa, cv2
 
 主程序所在文件Dmain.py
 
