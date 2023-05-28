@@ -15,12 +15,7 @@
 
 pip install pyqt5 pyqt5-tools pyqt5designer
 
-Qtdesigner会可以通过Listary快速找到，可以创建桌面快捷方式方便使用
-
-
 将ui文件转为py文件：
-
-cmd指令
 
 pyuic5 -x a.ui -o a.py          # 将a.ui文件转为a.py文件，没有就自动生成，如果有，就覆盖。
 
