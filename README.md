@@ -5,8 +5,10 @@
 另外，可以通过改变信号的频率，实时读取电路的相应，可以很便捷的测出电路的**频响特性**，从而得到其**波特图**，这也是设计该程序的初衷。
 
 # GUI界面
-
+### 主界面
 ![d46efa26df7f7b3588dca4430703d11](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/bfe5949d-8481-4ffa-9d5b-28bfd6f73c7f)
+### 扫频得到带通滤波器的波特图
+![82f4a33012ad0b52e7d24de5713c724](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/71dc0436-46db-479d-8db1-32546e58656a)
 
 # 基本介绍
 
