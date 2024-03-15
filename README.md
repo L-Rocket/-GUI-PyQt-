@@ -1,6 +1,9 @@
 # -GUI-PyQt-
+# GUI界面
 
 ![d46efa26df7f7b3588dca4430703d11](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/bfe5949d-8481-4ffa-9d5b-28bfd6f73c7f)
+
+# 基本介绍
 
 信号发生器及示波器控制GUI（PyQt）基于python
 
