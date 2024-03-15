@@ -36,9 +36,9 @@ pip install pyqt5 pyqt5-tools pyqt5designer pyvisa cv2
 ```
 
 
-### 将a.ui文件转为a.py文件，没有就自动生成，如果有，就覆盖。：
+### 将Mainwindow.ui文件转为Mainwindow.py文件，没有就自动生成，如果有，就覆盖。：
 ```shell
-pyuic5 -x a.ui -o a.py          
+pyuic5 -x Mainwindow.ui -o Mainwindow.py          
 ```
 
 
