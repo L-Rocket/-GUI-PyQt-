@@ -8,7 +8,7 @@
 ### 主界面
 ![d46efa26df7f7b3588dca4430703d11](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/bfe5949d-8481-4ffa-9d5b-28bfd6f73c7f)
 ### 扫频得到带通滤波器的波特图
-![Uploading 1e79dbcbb4a8d56fffcf088caa155fd.png…]()
+![1e79dbcbb4a8d56fffcf088caa155fd](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/fe62c70e-0920-4c44-b243-145c3ce8a9b5)
 
 # 基本介绍
 
