@@ -1,4 +1,7 @@
-# -GUI-PyQt-
+![d46efa26df7f7b3588dca4430703d11](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/c16f89e1-0b2d-4f92-b4e5-6b8935967b1d)# -GUI-PyQt-
+
+![d46efa26df7f7b3588dca4430703d11](https://github.com/L-Rocket/-GUI-PyQt-/assets/93325265/bfe5949d-8481-4ffa-9d5b-28bfd6f73c7f)
+
 信号发生器及示波器控制GUI（PyQt）基于python
 
 信号发生器及示波器型号：鼎阳
