@@ -17,9 +17,11 @@
 
 该程序基于python及pyqt5工具包开发
 
-pip install pyqt5 pyqt5-tools pyqt5designer
+
 
 # 相关shell命令
+
+pip install pyqt5 pyqt5-tools pyqt5designer
 
 pyuic5 -x a.ui -o a.py          # 将a.ui文件转为a.py文件，没有就自动生成，如果有，就覆盖。
 
