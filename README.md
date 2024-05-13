@@ -32,7 +32,7 @@
 
 ### 安装相关依赖：
 ```shell
-pip install pyqt5 pyqt5-tools pyqt5designer pyvisa cv2
+pip install pyqt5 pyqt5-tools pyqt5designer pyvisa opencv-python   # or cv2 
 ```
 
 
